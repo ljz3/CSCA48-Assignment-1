@@ -1,0 +1,7416 @@
+penup
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 10000
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 190
+penup
+forward 5
+pendown
+forward 124
+penup
+forward 6
+pendown
+forward 186
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 188
+penup
+forward 9
+pendown
+forward 121
+penup
+forward 8
+pendown
+forward 185
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 187
+penup
+forward 11
+pendown
+forward 119
+penup
+forward 10
+pendown
+forward 184
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 186
+penup
+forward 13
+pendown
+forward 117
+penup
+forward 12
+pendown
+forward 183
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 186
+penup
+forward 14
+pendown
+forward 115
+penup
+forward 13
+pendown
+forward 183
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 186
+penup
+forward 15
+pendown
+forward 113
+penup
+forward 15
+pendown
+forward 182
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 186
+penup
+forward 16
+pendown
+forward 111
+penup
+forward 16
+pendown
+forward 182
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 186
+penup
+forward 17
+pendown
+forward 109
+penup
+forward 17
+pendown
+forward 182
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 186
+penup
+forward 17
+pendown
+forward 108
+penup
+forward 17
+pendown
+forward 183
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 187
+penup
+forward 17
+pendown
+forward 106
+penup
+forward 18
+pendown
+forward 183
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 187
+penup
+forward 18
+pendown
+forward 104
+penup
+forward 18
+pendown
+forward 184
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 188
+penup
+forward 18
+pendown
+forward 103
+penup
+forward 17
+pendown
+forward 185
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 189
+penup
+forward 18
+pendown
+forward 101
+penup
+forward 17
+pendown
+forward 186
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 190
+penup
+forward 18
+pendown
+forward 99
+penup
+forward 17
+pendown
+forward 187
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 191
+penup
+forward 18
+pendown
+forward 97
+penup
+forward 17
+pendown
+forward 188
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 192
+penup
+forward 18
+pendown
+forward 41
+penup
+forward 13
+pendown
+forward 41
+penup
+forward 17
+pendown
+forward 189
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 193
+penup
+forward 18
+pendown
+forward 32
+penup
+forward 29
+pendown
+forward 32
+penup
+forward 17
+pendown
+forward 190
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 194
+penup
+forward 18
+pendown
+forward 26
+penup
+forward 39
+pendown
+forward 26
+penup
+forward 17
+pendown
+forward 191
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 195
+penup
+forward 18
+pendown
+forward 21
+penup
+forward 46
+pendown
+forward 22
+penup
+forward 17
+pendown
+forward 192
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 196
+penup
+forward 18
+pendown
+forward 17
+penup
+forward 53
+pendown
+forward 17
+penup
+forward 17
+pendown
+forward 193
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 197
+penup
+forward 18
+pendown
+forward 13
+penup
+forward 59
+pendown
+forward 13
+penup
+forward 17
+pendown
+forward 194
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 198
+penup
+forward 18
+pendown
+forward 10
+penup
+forward 63
+pendown
+forward 10
+penup
+forward 17
+pendown
+forward 195
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 199
+penup
+forward 18
+pendown
+forward 6
+penup
+forward 69
+pendown
+forward 6
+penup
+forward 17
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 18
+pendown
+forward 3
+penup
+forward 73
+pendown
+forward 3
+penup
+forward 17
+pendown
+forward 197
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 201
+penup
+forward 112
+pendown
+forward 198
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 202
+penup
+forward 110
+pendown
+forward 199
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 203
+penup
+forward 109
+pendown
+forward 199
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 204
+penup
+forward 107
+pendown
+forward 200
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 205
+penup
+forward 105
+pendown
+forward 201
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 205
+penup
+forward 104
+pendown
+forward 202
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 206
+penup
+forward 102
+pendown
+forward 203
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 207
+penup
+forward 101
+pendown
+forward 203
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 207
+penup
+forward 101
+pendown
+forward 203
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 206
+penup
+forward 103
+pendown
+forward 202
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 204
+penup
+forward 106
+pendown
+forward 201
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 203
+penup
+forward 108
+pendown
+forward 200
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 202
+penup
+forward 110
+pendown
+forward 199
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 201
+penup
+forward 113
+pendown
+forward 197
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 115
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 199
+penup
+forward 117
+pendown
+forward 195
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 198
+penup
+forward 119
+pendown
+forward 194
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 197
+penup
+forward 121
+pendown
+forward 193
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 196
+penup
+forward 123
+pendown
+forward 192
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 195
+penup
+forward 125
+pendown
+forward 191
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 194
+penup
+forward 127
+pendown
+forward 190
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 193
+penup
+forward 129
+pendown
+forward 189
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 192
+penup
+forward 130
+pendown
+forward 189
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 191
+penup
+forward 132
+pendown
+forward 188
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 190
+penup
+forward 134
+pendown
+forward 187
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 190
+penup
+forward 135
+pendown
+forward 186
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 189
+penup
+forward 137
+pendown
+forward 185
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 188
+penup
+forward 138
+pendown
+forward 185
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 188
+penup
+forward 139
+pendown
+forward 184
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 187
+penup
+forward 140
+pendown
+forward 184
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 186
+penup
+forward 142
+pendown
+forward 183
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 186
+penup
+forward 143
+pendown
+forward 182
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 185
+penup
+forward 144
+pendown
+forward 182
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 185
+penup
+forward 145
+pendown
+forward 181
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 184
+penup
+forward 147
+pendown
+forward 180
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 183
+penup
+forward 31
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 30
+pendown
+forward 180
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 183
+penup
+forward 31
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 31
+pendown
+forward 179
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 182
+penup
+forward 32
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 31
+pendown
+forward 179
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 182
+penup
+forward 32
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 32
+pendown
+forward 178
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 181
+penup
+forward 33
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 32
+pendown
+forward 178
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 181
+penup
+forward 33
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 33
+pendown
+forward 177
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 180
+penup
+forward 34
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 33
+pendown
+forward 177
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 180
+penup
+forward 34
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 34
+pendown
+forward 176
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 179
+penup
+forward 35
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 34
+pendown
+forward 176
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 179
+penup
+forward 35
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 35
+pendown
+forward 175
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 178
+penup
+forward 36
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 35
+pendown
+forward 175
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 178
+penup
+forward 36
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 36
+pendown
+forward 174
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 177
+penup
+forward 37
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 36
+pendown
+forward 174
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 177
+penup
+forward 37
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 37
+pendown
+forward 173
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 177
+penup
+forward 37
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 37
+pendown
+forward 173
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 176
+penup
+forward 38
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 37
+pendown
+forward 173
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 176
+penup
+forward 38
+pendown
+forward 15
+penup
+forward 57
+pendown
+forward 15
+penup
+forward 37
+pendown
+forward 173
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 176
+penup
+forward 163
+pendown
+forward 172
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 175
+penup
+forward 164
+pendown
+forward 172
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 175
+penup
+forward 164
+pendown
+forward 172
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 175
+penup
+forward 165
+pendown
+forward 171
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 175
+penup
+forward 165
+pendown
+forward 171
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 174
+penup
+forward 166
+pendown
+forward 171
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 174
+penup
+forward 167
+pendown
+forward 170
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 174
+penup
+forward 167
+pendown
+forward 170
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 174
+penup
+forward 167
+pendown
+forward 170
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 173
+penup
+forward 168
+pendown
+forward 170
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 173
+penup
+forward 168
+pendown
+forward 170
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 173
+penup
+forward 169
+pendown
+forward 169
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 173
+penup
+forward 169
+pendown
+forward 169
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 173
+penup
+forward 169
+pendown
+forward 169
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 172
+penup
+forward 170
+pendown
+forward 169
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 172
+penup
+forward 170
+pendown
+forward 169
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 172
+penup
+forward 171
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 172
+penup
+forward 171
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 172
+penup
+forward 171
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 172
+penup
+forward 171
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 172
+penup
+forward 171
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 172
+penup
+forward 171
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 171
+penup
+forward 172
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 171
+penup
+forward 172
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 171
+penup
+forward 172
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 171
+penup
+forward 172
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 171
+penup
+forward 172
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 171
+penup
+forward 172
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 131
+penup
+forward 7
+pendown
+forward 33
+penup
+forward 172
+pendown
+forward 34
+penup
+forward 6
+pendown
+forward 128
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 128
+penup
+forward 13
+pendown
+forward 30
+penup
+forward 172
+pendown
+forward 30
+penup
+forward 14
+pendown
+forward 124
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 125
+penup
+forward 19
+pendown
+forward 27
+penup
+forward 172
+pendown
+forward 28
+penup
+forward 18
+pendown
+forward 122
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 124
+penup
+forward 22
+pendown
+forward 25
+penup
+forward 172
+pendown
+forward 26
+penup
+forward 22
+pendown
+forward 120
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 122
+penup
+forward 25
+pendown
+forward 24
+penup
+forward 172
+pendown
+forward 25
+penup
+forward 24
+pendown
+forward 119
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 121
+penup
+forward 27
+pendown
+forward 23
+penup
+forward 172
+pendown
+forward 23
+penup
+forward 28
+pendown
+forward 117
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 120
+penup
+forward 29
+pendown
+forward 22
+penup
+forward 172
+pendown
+forward 22
+penup
+forward 30
+pendown
+forward 116
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 119
+penup
+forward 31
+pendown
+forward 21
+penup
+forward 172
+pendown
+forward 21
+penup
+forward 32
+pendown
+forward 115
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 118
+penup
+forward 33
+pendown
+forward 20
+penup
+forward 172
+pendown
+forward 21
+penup
+forward 33
+pendown
+forward 114
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 117
+penup
+forward 35
+pendown
+forward 19
+penup
+forward 172
+pendown
+forward 20
+penup
+forward 34
+pendown
+forward 114
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 117
+penup
+forward 36
+pendown
+forward 18
+penup
+forward 172
+pendown
+forward 19
+penup
+forward 36
+pendown
+forward 113
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 116
+penup
+forward 37
+pendown
+forward 18
+penup
+forward 172
+pendown
+forward 19
+penup
+forward 36
+pendown
+forward 113
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 116
+penup
+forward 38
+pendown
+forward 17
+penup
+forward 172
+pendown
+forward 18
+penup
+forward 38
+pendown
+forward 112
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 115
+penup
+forward 39
+pendown
+forward 17
+penup
+forward 172
+pendown
+forward 18
+penup
+forward 39
+pendown
+forward 111
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 115
+penup
+forward 39
+pendown
+forward 17
+penup
+forward 172
+pendown
+forward 17
+penup
+forward 40
+pendown
+forward 111
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 114
+penup
+forward 41
+pendown
+forward 16
+penup
+forward 172
+pendown
+forward 17
+penup
+forward 40
+pendown
+forward 111
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 114
+penup
+forward 41
+pendown
+forward 16
+penup
+forward 172
+pendown
+forward 17
+penup
+forward 40
+pendown
+forward 111
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 114
+penup
+forward 41
+pendown
+forward 16
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 114
+penup
+forward 41
+pendown
+forward 16
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 114
+penup
+forward 42
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 113
+penup
+forward 43
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 114
+penup
+forward 42
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 114
+penup
+forward 42
+pendown
+forward 15
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 114
+penup
+forward 41
+pendown
+forward 16
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 114
+penup
+forward 41
+pendown
+forward 16
+penup
+forward 172
+pendown
+forward 16
+penup
+forward 42
+pendown
+forward 110
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 114
+penup
+forward 41
+pendown
+forward 16
+penup
+forward 172
+pendown
+forward 17
+penup
+forward 40
+pendown
+forward 111
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 114
+penup
+forward 41
+pendown
+forward 16
+penup
+forward 172
+pendown
+forward 17
+penup
+forward 40
+pendown
+forward 111
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 115
+penup
+forward 39
+pendown
+forward 17
+penup
+forward 172
+pendown
+forward 17
+penup
+forward 40
+pendown
+forward 111
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 115
+penup
+forward 39
+pendown
+forward 17
+penup
+forward 172
+pendown
+forward 18
+penup
+forward 39
+pendown
+forward 111
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 116
+penup
+forward 38
+pendown
+forward 17
+penup
+forward 172
+pendown
+forward 18
+penup
+forward 38
+pendown
+forward 112
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 116
+penup
+forward 37
+pendown
+forward 18
+penup
+forward 172
+pendown
+forward 19
+penup
+forward 36
+pendown
+forward 113
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 117
+penup
+forward 35
+pendown
+forward 19
+penup
+forward 172
+pendown
+forward 19
+penup
+forward 36
+pendown
+forward 113
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 117
+penup
+forward 35
+pendown
+forward 19
+penup
+forward 172
+pendown
+forward 20
+penup
+forward 34
+pendown
+forward 114
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 118
+penup
+forward 33
+pendown
+forward 20
+penup
+forward 172
+pendown
+forward 21
+penup
+forward 32
+pendown
+forward 115
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 119
+penup
+forward 31
+pendown
+forward 21
+penup
+forward 172
+pendown
+forward 21
+penup
+forward 32
+pendown
+forward 115
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 120
+penup
+forward 29
+pendown
+forward 22
+penup
+forward 172
+pendown
+forward 22
+penup
+forward 30
+pendown
+forward 116
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 121
+penup
+forward 27
+pendown
+forward 23
+penup
+forward 172
+pendown
+forward 23
+penup
+forward 28
+pendown
+forward 117
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 122
+penup
+forward 25
+pendown
+forward 24
+penup
+forward 172
+pendown
+forward 25
+penup
+forward 24
+pendown
+forward 119
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 124
+penup
+forward 21
+pendown
+forward 26
+penup
+forward 172
+pendown
+forward 26
+penup
+forward 22
+pendown
+forward 120
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 126
+penup
+forward 18
+pendown
+forward 27
+penup
+forward 172
+pendown
+forward 28
+penup
+forward 18
+pendown
+forward 122
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 128
+penup
+forward 13
+pendown
+forward 30
+penup
+forward 172
+pendown
+forward 31
+penup
+forward 13
+pendown
+forward 124
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 132
+penup
+forward 5
+pendown
+forward 34
+penup
+forward 172
+pendown
+forward 34
+penup
+forward 6
+pendown
+forward 128
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 171
+penup
+forward 172
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 171
+penup
+forward 172
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 171
+penup
+forward 172
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 172
+penup
+forward 171
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 172
+penup
+forward 171
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 172
+penup
+forward 171
+pendown
+forward 168
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 172
+penup
+forward 170
+pendown
+forward 169
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 173
+penup
+forward 169
+pendown
+forward 169
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 173
+penup
+forward 168
+pendown
+forward 170
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 174
+penup
+forward 166
+pendown
+forward 171
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 175
+penup
+forward 165
+pendown
+forward 171
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 176
+penup
+forward 163
+pendown
+forward 172
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 177
+penup
+forward 160
+pendown
+forward 174
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 179
+penup
+forward 157
+pendown
+forward 175
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 181
+penup
+forward 152
+pendown
+forward 178
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 43
+pendown
+forward 196
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 42
+pendown
+forward 197
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 30
+penup
+forward 42
+pendown
+forward 197
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 200
+penup
+forward 42
+pendown
+forward 31
+penup
+forward 41
+pendown
+forward 197
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 201
+penup
+forward 41
+pendown
+forward 31
+penup
+forward 41
+pendown
+forward 197
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 201
+penup
+forward 41
+pendown
+forward 31
+penup
+forward 41
+pendown
+forward 197
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 201
+penup
+forward 40
+pendown
+forward 32
+penup
+forward 40
+pendown
+forward 198
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 202
+penup
+forward 39
+pendown
+forward 33
+penup
+forward 39
+pendown
+forward 198
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 202
+penup
+forward 39
+pendown
+forward 33
+penup
+forward 39
+pendown
+forward 198
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 202
+penup
+forward 38
+pendown
+forward 35
+penup
+forward 37
+pendown
+forward 199
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 203
+penup
+forward 36
+pendown
+forward 36
+penup
+forward 37
+pendown
+forward 199
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 204
+penup
+forward 35
+pendown
+forward 37
+penup
+forward 35
+pendown
+forward 200
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 204
+penup
+forward 34
+pendown
+forward 38
+penup
+forward 34
+pendown
+forward 201
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 205
+penup
+forward 32
+pendown
+forward 40
+penup
+forward 33
+pendown
+forward 201
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 206
+penup
+forward 31
+pendown
+forward 41
+penup
+forward 31
+pendown
+forward 202
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 207
+penup
+forward 29
+pendown
+forward 43
+penup
+forward 29
+pendown
+forward 203
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 208
+penup
+forward 26
+pendown
+forward 46
+penup
+forward 27
+pendown
+forward 204
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 209
+penup
+forward 24
+pendown
+forward 49
+penup
+forward 23
+pendown
+forward 206
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 211
+penup
+forward 20
+pendown
+forward 52
+penup
+forward 21
+pendown
+forward 207
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 213
+penup
+forward 17
+pendown
+forward 55
+penup
+forward 17
+pendown
+forward 209
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 216
+penup
+forward 11
+pendown
+forward 61
+penup
+forward 11
+pendown
+forward 212
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511
+penup
+backward 512
+right
+forward 1
+left
+forward 0
+pendown
+forward 511

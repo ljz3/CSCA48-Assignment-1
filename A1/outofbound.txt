@@ -1,0 +1,11 @@
+  0: right
+  1: loop 5
+    2: right
+    3: left
+    4: forward 100
+  5: right
+  6: left
+  7: forward 100
+  8: loop 4
+    9: right
+ 10: forward 1
